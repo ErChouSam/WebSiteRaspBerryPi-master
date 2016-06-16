@@ -20,8 +20,8 @@
             <img src="img/Fondmenu.png"/>
         </div>
         <div class="Menu" >          
-            <a href="index.html"><img src="img/iconeR1.png" /></a>
-            <img src="img/iconeR2.png" />
+            <a href="index.php"><img src="img/iconeR1.png" /></a>
+            <a href="login.php"><img src="img/iconeR2.png" /></a>
             <img src="img/iconeR3.png" />
             <img src="img/iconeR4.png" />
         </div>

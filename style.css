@@ -1,7 +1,9 @@
-.Menu{position: absolute;top: -10;text-align: center;width: 100%;}
+.Menu{position: absolute;top: -10px;text-align: center;width: 100%;}
 .Menu img{width: 70px;}
-.FMenu{position: absolute;top: -40;text-align: center;width: 100%;}
-.FMenu img{width: 650;}
+.FMenu{position: absolute;top: -40px;text-align: center;width: 100%;}
+.FMenu img{width: 650px;}
+.Form{margin-left: 10px;margin-top: 100px;}
 body{
     background-color: beige;
+
 }  
